@@ -84,3 +84,7 @@ npm run dev
 Start development server
 
 php artisan serve
+
+run tests
+
+php artisan test
